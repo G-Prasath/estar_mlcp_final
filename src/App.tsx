@@ -51,22 +51,15 @@ const NoNavbarLayout = () => (
 );
 
 function App() {
-  // const [scriptsLoaded, setScriptsLoaded] = useState(false);
 
-//   const handleLoadScripts = () => {
-//     loadAOS();
-//     loadTawkTo();
-//     loadGTM("GTM-MQWJBKFX");
-//     loadSchema();
-    
-//   };
-
-//  setTimeout(handleLoadScripts, 3000);
-
+  const handleLoadScripts = () => {
     loadAOS();
     loadTawkTo();
     loadGTM("GTM-MQWJBKFX");
     loadSchema();
+  };
+
+ setTimeout(handleLoadScripts, 3000);
 
   return (
     <HelmetProvider>
