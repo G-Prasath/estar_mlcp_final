@@ -33,9 +33,10 @@ const Banner = () => {
             <img
               src={cnt.img}
               alt={`Background ${index}`}
+              loading="eager"
               className={`absolute inset-0 object-cover object-center w-full h-full transition-opacity duration-1000 ease-in-out ${
                 index === currentImageIndex ? "opacity-100" : "opacity-0"
-              } loading="lazy"`}
+              } loading="eager"`}
             />
             <div className="absolute inset-0 bg-black opacity-40"></div>
           </div>
@@ -52,5 +53,8 @@ const Banner = () => {
     </div>
   );
 };
+
+
+
 
 export default Banner;
