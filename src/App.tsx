@@ -59,7 +59,7 @@ function App() {
     loadSchema();
   };
 
- setTimeout(handleLoadScripts, 3000);
+ setTimeout(handleLoadScripts, 5000);
 
   return (
     <HelmetProvider>
