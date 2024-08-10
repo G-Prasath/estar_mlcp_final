@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 import Clients from "./components/Clients";
 import NotFound from "./pages/NotFound";
 import ScrollToTop from "./components/ScrollToTop";
-import { loadSchema } from "./hooks/loadSchema";
+// import { loadSchema } from "./hooks/loadSchema";
 import { loadGTM } from "./hooks/loadGtm";
 import { loadTawkTo } from "./hooks/loadTawkTo";
 import { loadAOS } from "./hooks/loadAOS";
@@ -56,7 +56,7 @@ function App() {
     loadAOS();
     loadTawkTo();
     loadGTM("GTM-MQWJBKFX");
-    loadSchema();
+    // loadSchema();
   };
 
  setTimeout(handleLoadScripts, 5000);
