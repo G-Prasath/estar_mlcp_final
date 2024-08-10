@@ -7,7 +7,7 @@ export const loadGTM = (gtmId) => {
   // Create the script element
   const script = document.createElement('script');
   script.id = scriptId;
-  script.defer = true;
+  script.async = true;
   script.src = `https://www.googletagmanager.com/gtm.js?id=${gtmId}`;
   script.charset = 'UTF-8';
   script.crossOrigin = 'anonymous';
