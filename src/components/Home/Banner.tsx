@@ -33,7 +33,6 @@ const Banner = () => {
             <img
               src={cnt.img}
               alt={`Background ${index}`}
-              loading="lazy"
               className={`absolute inset-0 object-cover object-center w-full h-full transition-opacity duration-1000 ease-in-out ${
                 index === currentImageIndex ? "opacity-100" : "opacity-0"
               } loading="lazy"`}
