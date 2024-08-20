@@ -74,22 +74,25 @@ const Funfact = () => {
         <div className="w-3/5 max-lg:w-full grid grid-cols-2 gap-3">
           <div className="bg-tst h-[244px] max-md:h-[200px] overflow-hidden">
             <LazyLoadImage
-              src="/achievement-3.webp"
-              alt="funfact_img"
+              src="/estar-complition.webp"
+              alt="estar-complition"
+              title="Estar Complition"
               className="w-full h-full hover:scale-[1.7] transition ease-in-out duration-500 object-contain max-md:object-cover scale-[1.5]"
             />
           </div>
           <div className="bg-tst row-span-2 max-lg:order-2 max-lg:col-span-2 overflow-hidden">
             <LazyLoadImage
-              src="/achievement-03.webp"
-              alt="funfact_img"
+              src="/estar-patent.webp"
+              alt="estar-patent"
+              title="Estar Patent"
               className="w-full h-full hover:scale-[1.1] aspect-square transition ease-in-out duration-500 object-cover"
             />
           </div>
           <div className="bg-tst h-[244px] max-md:h-[200px] overflow-hidden">
             <LazyLoadImage
-              src="/achievement-2.webp"
-              alt="funfact_img"
+              src="/estar-complition-2.webp"
+              alt="estar-complition-2"
+              title="Estar Project Complition"
               className="w-full h-full hover:scale-[1.1] transition ease-in-out duration-500 object-cover"
             />
           </div>

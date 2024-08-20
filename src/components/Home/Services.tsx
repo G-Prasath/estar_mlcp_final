@@ -55,7 +55,8 @@ const Services = () => {
                   <div className="serivce-right_img w-full aspect-video overflow-hidden">
                     <LazyLoadImage
                       src={item.img}
-                      alt="service_img"
+                      alt={item.name}
+                      title={`${item.name} Estar`}
                       className="transistion hover:scale-[1.1] duration-500 animate-[pulse_.8s_ease-in-out] rounded-md w-full h-full"
                     />
                   </div>

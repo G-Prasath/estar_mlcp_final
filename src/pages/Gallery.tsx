@@ -23,7 +23,7 @@ const Gallery = () => {
       </Helmet>
       <Banner />
       <Compltedproject />
-      <Ongoingproject />
+      {/* <Ongoingproject /> */}
     </div>
   );
 };

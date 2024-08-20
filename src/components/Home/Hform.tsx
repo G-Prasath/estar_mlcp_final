@@ -189,7 +189,8 @@ const Hform = () => {
         <LazyLoadImage
           className="rounded-3xl max-lg:mt-20 w-full h-full"
           src="/home/contact.webp"
-          alt="Contact"
+          alt="contact"
+          title="contact"
           effect="blur"
         />
       </div>

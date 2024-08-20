@@ -18,7 +18,7 @@ const Newgallery = ({ datas }) => {
                 item.img.map((imgs, index) => (
 
                     <div key={index} className="w-full aspect-square bg-light_white rounded-lg overflow-hidden">
-                        <img src={imgs} alt="Project Images" className="w-full h-full" />
+                        <img src={imgs} alt={item.alt} title={`${item.alt} Estar`} className="w-full h-full" />
                     </div>
                 ))
             }

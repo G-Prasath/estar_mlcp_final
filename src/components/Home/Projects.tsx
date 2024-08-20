@@ -30,24 +30,24 @@ const Projects = () => {
         <Splide options={options} aria-label="My Favorite Images">
           
           <SplideSlide className="relative">
-            <LazyLoadImage src="/home/Chromepet.webp" alt="Image 1" className="aspect-square w-full h-full"  />
+            <LazyLoadImage src="/home/tower-parking.webp" alt="tower-parking" title="Tower Parking" className="aspect-square w-full h-full"  />
           </SplideSlide>
           <SplideSlide className="relative">
-            <LazyLoadImage src="/home/Thirupur.webp" alt="Image 2" className="aspect-square w-full h-full"  />
+            <LazyLoadImage src="/home/shuttle-parking.webp" alt="shuttle-parking" title="Shuttle Parking" className="aspect-square w-full h-full"  />
           </SplideSlide>
           <SplideSlide className="relative">
-            <LazyLoadImage src="/home/Velachery.webp" alt="Image 3" className="aspect-square w-full h-full"  />
+            <LazyLoadImage src="/home/puzzle-parking.webp" alt="puzzle-parking" title="Puzzle Parking" className="aspect-square w-full h-full"  />
           </SplideSlide>
 
 
           <SplideSlide className="relative">
-            <img src="/home/TRIL.webp" alt="Image 1" className="aspect-square w-full h-full"  />
+            <img src="/home/1+1-Hydralic.webp" alt="1+1-Hydralic" title="1+1 Hydralic" className="aspect-square w-full h-full"  />
           </SplideSlide>
           <SplideSlide className="relative">
-            <img src="/home/Kumbakonam.webp" alt="Image 2" className="aspect-square w-full h-full"   />
+            <img src="/home/4-post-hydralic.webp" alt="4-post-hydralic" title="4-post-hydralic" className="aspect-square w-full h-full"   />
           </SplideSlide>
           <SplideSlide className="relative">
-            <img src="/home/1+1-kasi-theatre.webp" alt="Image 3" className="aspect-square w-full h-full"  />
+            <img src="/home/1+1-2post.webp" alt="1+1-2post" title="1+1-2post" className="aspect-square w-full h-full"  />
           </SplideSlide>
         </Splide>
       </div>

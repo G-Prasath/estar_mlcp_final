@@ -31,7 +31,7 @@ const Towerparking = () => {
             cnt1={item.cnt1}
             cnt2={item.cnt2}
           />
-          <Cards card1={item.card_1} card2={item.card_2} card3={item.card_3} />
+          <Cards card1={item.card_1} card2={item.card_2} card3={item.card_3} altTag="tower parking system" />
         </div>
       ))}
     </div>

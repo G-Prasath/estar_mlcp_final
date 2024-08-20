@@ -1,7 +1,7 @@
 import React from "react";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 
-const Cards = ({ card1, card2, card3 }) => {
+const Cards = ({ card1, card2, card3, altTag }) => {
   return (
     <div className="sec-padding bg-[#EDFFFD80]">
       <div className="service-card">
@@ -10,7 +10,8 @@ const Cards = ({ card1, card2, card3 }) => {
           <div className="card-img w-2/5 h-[500px] rounded-lg flex items-center justify-center max-[1200px]:h-[400px] max-lg:w-full max-lg:h-auto max-sm:aspect-square">
             <LazyLoadImage
               src={card1.img}
-              alt="Card Images"
+              alt={altTag}
+              title={`${altTag}-1 Estar`}
               className="rounded-lg w-full z-10 h-full"
             />
           </div>
@@ -110,7 +111,8 @@ const Cards = ({ card1, card2, card3 }) => {
           <div className="card-img w-2/5 h-[500px] rounded-lg flex items-center justify-center max-[1200px]:h-[400px] max-lg:w-full max-lg:h-auto max-sm:aspect-square max-lg:order-1">
             <LazyLoadImage
               src={card2.img}
-              alt="Card Images"
+              alt={altTag}
+              title={`${altTag}-2 Estar`}
               className="rounded-lg w-full z-10 h-full"
             />
           </div>
@@ -121,7 +123,8 @@ const Cards = ({ card1, card2, card3 }) => {
           <div className="card-img w-2/5 h-[500px] rounded-lg flex items-center justify-center max-[1200px]:h-[400px] max-lg:w-full max-lg:h-auto max-sm:aspect-square">
             <LazyLoadImage
               src={card3.img}
-              alt="Card Images"
+              alt={altTag}
+              title={`${altTag}-3 Estar`}
               className="rounded-lg w-full h-full z-10"
             />
           </div>

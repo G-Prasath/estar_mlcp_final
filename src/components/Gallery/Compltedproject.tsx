@@ -6,38 +6,25 @@ const data = [
   {
     logo: "/clients/chennai_silks.png",
     title: "The Chennai Silks - Chromepet",
+    alt : "Shuttle Stacker",
     content: "Shuttle Stacker - 126 Cars",
-    img: ["/gallery/1.webp", "/gallery/2.webp", "/gallery/3.webp"],
+    img: ["/gallery/shuttle-stacker-system-1.webp", "/gallery/shuttle-stacker-system-2.webp", "/gallery/shuttle-stacker-system-3.webp"],
   },
   {
     logo: "/clients/Shree_kumaran.webp",
     title: "Shree Kumaran Thanga Maligai - Thiruppur",
+    alt : "Tower Parking",
     content: "Tower Parking - 136 Cars",
-    img: ["/gallery/7.webp", "/gallery/8.webp", "/gallery/9.webp"],
+    img: ["/gallery/tower-parking-system-7.webp", "/gallery/tower-parking-system-8.webp", "/gallery/tower-parking-system-9.webp"],
   },
   {
     logo: "/clients/anandham_silks.avif",
     title: "Anandham Silks - Rajapalayam",
+    alt : "Tower Parking System",
     content: "Tower Parking - 49 Cars",
-    img: ["/gallery/4.webp", "/gallery/5.webp", "/gallery/6.webp"],
+    img: ["/gallery/tower-parking-system-4.webp", "/gallery/tower-parking-system-5.webp", "/gallery/tower-parking-system-6.webp"],
 
   },
-  // {
-  //   logo: "/clients/VGN.png",
-  //   title: "VGN Notting Hill - Nungambakkam",
-  //   content: "Shuttle Stacker - 280 Cars",
-  //   img: ["/gallery/7.webp", "/gallery/8.webp", "/gallery/9.webp"],
-  // },
-  // {
-  //   logo: "/clients/Novel.png",
-  //   title: "Novel IT Park - Bengaluru",
-  //   content: "Shuttle Stacker - 120 Cars",
-  //   img: [
-  //     "https://via.placeholder.com/150",
-  //     "https://via.placeholder.com/150",
-  //     "https://via.placeholder.com/150",
-  //   ],
-  // },
 ];
 
 const Compltedproject = () => {

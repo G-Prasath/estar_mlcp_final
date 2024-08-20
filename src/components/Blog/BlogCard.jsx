@@ -10,7 +10,7 @@ const BlogCard = ({slug, imageSrc, title, event, date }) => {
       data-aos-duration="700"
       className="relative bg-card rounded-lg overflow-hidden"
     >
-      <img src={imageSrc} alt={title} className="aspect-video" />
+      <img src={imageSrc} alt={title} title={`${title}-Estar`} className="aspect-video" />
       <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent text-white">
         <div className="p-4 max-md:p-1 max-lg:p-1 bg-dark_gray bg-opacity-55 mb-5 max-md:mb-2">
           <h2 className="text-lg font-bold max-md:text-xs max-lg:text-xs uppercase">

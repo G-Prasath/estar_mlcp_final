@@ -31,12 +31,14 @@ const Bikeparking = () => {
             cnt2={item.cnt2}
           />
           <div className="sec-padding">
+
             {/* ----------- Card 1 -----------  */}
             <div className="w-full card-1 flex items-center justify-between max-lg:flex-col max-lg:my-10">
               <div className="card-img w-2/5 h-[500px] rounded-lg flex items-center justify-center max-[1200px]:h-[400px] max-lg:w-full max-lg:h-auto max-sm:aspect-square">
                 <LazyLoadImage
                   src={item.card_1.img}
-                  alt="Card Images"
+                  alt="Bike Parking System"
+                  title="Bike Parking System"
                   className="rounded-lg w-full z-10 h-full"
                 />
               </div>

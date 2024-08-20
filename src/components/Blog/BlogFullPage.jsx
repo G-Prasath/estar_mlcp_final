@@ -20,13 +20,14 @@ const BlogFullPage = () => {
             <div>
               <img
                 src={imageSrc}
-                alt={alt}
+                alt={title}
+                title={`${title}-Estar`}
                 className="w-full rounded-lg mb-4 md:mb-0 md:mr-4"
               />
               <p className="text-sm text-muted-foreground mt-5">
                 {author} • {date}
               </p>
-              <h3 className="text-xl font-semibold mt-2">{title}</h3>
+              <h1 className="text-xl font-semibold mt-2">{title}</h1>
               <p
                 className="mt-2 text-muted-foreground text-justify mb-7"
                 dangerouslySetInnerHTML={{ __html: content }}

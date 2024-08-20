@@ -10,8 +10,9 @@ const Blogs = () => {
       <div className="w-full flex max-md:flex-col max-lg:flex-col gap-3">
         <Link to='/blog/amritsar-smartcity-project' className="w-1/2 max-lg:w-full rounded-md relative aspect-square overflow-hidden">
           <LazyLoadImage
-            src="blog/1.webp"
-            alt="Blog"
+            src="/blog/amrisar-project.webp"
+            alt="amrisar-project"
+            title="Amrisar Project"
             className="w-full aspect-square rounded-md hover:scale-[1.1] transition ease-in-out duration-500"
           />
 
@@ -32,7 +33,8 @@ const Blogs = () => {
           <Link to='/blog/waremat-at-expo-showcasing-innovative-parking-solutions' className="w-full aspect-square rounded-md relative overflow-hidden">
             <LazyLoadImage
               src="/blog/Expo.jpeg"
-              alt="Blog"
+              alt="Expo"
+              title="Expo"
               className="w-full aspect-square rounded-md hover:scale-[1.1] transition ease-in-out duration-500"
             />
             <div className="w-full bg-light_white absolute bottom-3 flex flex-col items-center justify-center opacity-[.9] py-1">
@@ -49,8 +51,9 @@ const Blogs = () => {
           </Link>
           <Link to='/blog/how-two-post-hydraulic-systems-can-amplify-your-parking-space' className="w-full aspect-square rounded-md relative overflow-hidden">
             <LazyLoadImage
-              src="blog/2.jpg"
-              alt="Blog"
+              src="blog/1+1-2post.jpg"
+              alt="1+1-2post"
+              title="1+1-2post"
               className="w-full aspect-square rounded-md hover:scale-[1.1] transition ease-in-out duration-500"
             />
             <div className="w-full bg-light_white absolute bottom-3 flex flex-col items-center justify-center opacity-[.9] py-1">
@@ -67,8 +70,9 @@ const Blogs = () => {
           </Link>
           <Link to='/blog/revolutionized-tower-parking-boosting-parking-efficiency-and-convenience' className="w-full aspect-square rounded-md relative overflow-hidden">
             <LazyLoadImage
-              src="blog/4.jpg"
-              alt="Blog"
+              src="blog/tower-parking.jpg"
+              alt="tower-parking"
+              title="tower-parking"
               className="w-full aspect-square rounded-md hover:scale-[1.1] transition ease-in-out duration-500"
             />
             <div className="w-full bg-light_white absolute bottom-3 flex flex-col items-center justify-center opacity-[.9] py-1">
@@ -86,7 +90,8 @@ const Blogs = () => {
           <Link to='/blog/puzzle-parking-revolutionizing-urban-car-storage-with-smart-solutions' className="w-full aspect-square rounded-md relative overflow-hidden ">
             <LazyLoadImage
               src="/home/Puzzle_Parking.jpg"
-              alt="Blog"
+              alt="Puzzle_Parking"
+              title="Puzzle_Parking"
               className="w-full aspect-square rounded-md hover:scale-[1.1] transition ease-in-out duration-500"
             />
             <div className="w-full bg-light_white absolute bottom-3 flex flex-col items-center justify-center opacity-[.9] py-1">

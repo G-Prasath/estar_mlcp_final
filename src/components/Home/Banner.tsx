@@ -7,18 +7,24 @@ const Banner = () => {
       imgWebp: "/banner/Shuttle-Parking.webp",
       imgSizes: "(max-width: 1024px) 100vw, (max-width: 640px) 90vw, 80vw",
       text: "Streamlined Shuttle Parking",
+      alt : "Shuttle-Parking",
+      title : "Shuttle Parking systems Estar"
     },
     {
       img: "/banner/Tower-Parking.avif",
       imgWebp: "/banner/Tower-Parking.webp",
       imgSizes: "(max-width: 1024px) 100vw, (max-width: 640px) 90vw, 80vw",
       text: "Innovative Tower Parking Solutions",
+      alt : "Tower-Parking",
+      title : "Shuttle Parking systems Estar"
     },
     {
       img: "/banner/amrisar-project.avif",
       imgWebp: "/banner/amrisar-project.webp",
       imgSizes: "(max-width: 1024px) 100vw, (max-width: 640px) 90vw, 80vw",
       text: "Inhouse Engineered Patented Products",
+      alt : "amrisar-shuttle-Parking",
+      title : "Amrisar Shuttle Parking systems Estar"
     },
   ];
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -41,7 +47,8 @@ const Banner = () => {
               <source srcSet={`${cnt.imgWebp} 1024w, ${cnt.imgWebp} 640w, ${cnt.imgWebp} 320w`} sizes={cnt.imgSizes} type="image/webp" />
               <img
                 src={cnt.img}
-                alt={`Background ${index}`}
+                alt={cnt.alt}
+                title={cnt.title}
                 className={`absolute inset-0 object-cover object-center w-full h-full transition-opacity duration-1000 ease-in-out ${
                   index === currentImageIndex ? "opacity-100" : "opacity-0"
                 }`}

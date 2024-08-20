@@ -15,6 +15,7 @@ const About = () => {
         <LazyLoadImage
           src="/home/Multi-Level-Car-Parking.webp" 
           alt="Multi Level Car Parking"
+          title="Multi Level Car Parking Estar"
           className="transition-all duration-300 ease-in-out hover:scale-[1.1] w-full h-full"
         />
       </div>
