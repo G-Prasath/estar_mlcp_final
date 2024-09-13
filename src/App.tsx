@@ -103,6 +103,7 @@ function App() {
                 <Route index element={<Blog />} />
                 <Route path=":slug" element={<BlogFullPage />} />
               </Route>
+              
               <Route
                 path="/frequently-asked-question"
                 element={<FrequentlyAskedQuestion />}
