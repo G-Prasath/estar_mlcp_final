@@ -56,7 +56,6 @@ function App() {
     loadAOS();
     loadTawkTo();
     loadGTM("GTM-MQWJBKFX");
-    // loadSchema();
   };
 
  setTimeout(handleLoadScripts, 5000);

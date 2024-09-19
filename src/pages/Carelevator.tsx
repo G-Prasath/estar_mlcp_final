@@ -6,10 +6,12 @@ import { Helmet } from "react-helmet-async";
 import { CarparkingPageData as metaTags } from "../data/Metatags";
 
 const Carelevator = () => {
+  console.log(metaTags.canonical);
+  
   return (
     <div>
       <Helmet>
-        <title>{metaTags.title}</title>
+         <title>{metaTags.title}</title>
         <meta name="description" content={metaTags.description} />
         <meta name="keywords" content={metaTags.keywords} />
         <link rel="canonical" href={metaTags.canonical} />,
@@ -19,7 +21,7 @@ const Carelevator = () => {
         <meta property="og:url" content="https://www.estar.in/car-elevator" />
         <meta property="og:description" content="India's best suited Private and Commercial Car Lifts for comfort and availability of cars Parking, car lifting." />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://www.estar.in/Product-Page/car-1.jpg " />
+        <meta property="og:image" content="https://www.estar.in/Product-Page/car-1.jpg" />
       </Helmet>
       {CarData.map((item, index) => (
         <div key={index}>

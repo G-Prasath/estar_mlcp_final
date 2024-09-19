@@ -294,7 +294,7 @@ export const BlogPosts = {
       
       <h3><strong>Puzzle Parking System</strong></h3><p>The <a href="/puzzle-parking-system" class="text-primary"><strong>Puzzle Parking System</strong></a> intrigued many attendees with its smart design that enables cars to be moved both vertically and horizontally, ensuring efficient use of available space.</p><br/>
       
-      <h3><strong>Two Post and Four Post Car Parking Systems</strong></h3><p>Estar’s <a href="/two-post-car-parking" class="text-primary"><strong>Two Post Car Parking</strong></a> and <a href="/four-post-car-parking" class="text-primary"><strong>Four Post Car Parking</strong></a> systems were showcased for their simplicity and reliability, offering robust solutions for both residential and commercial applications.</p><br/>
+      <h3><strong>Two Post and Four Post Car Parking Systems</strong></h3><p>Estar’s <a href="/two-post-hydraulic-system" class="text-primary"><strong>Two Post Car Parking</strong></a> and <a href="/four-post-car-parking" class="text-primary"><strong>Four Post Car Parking</strong></a> systems were showcased for their simplicity and reliability, offering robust solutions for both residential and commercial applications.</p><br/>
       
       <h3><strong>Car Elevator</strong></h3><p>The <a href="/car-elevator" class="text-primary"><strong>Car Elevator</strong></a> displayed its prowess in providing seamless vertical transportation of vehicles, particularly useful in multi-level parking structures.</p><br/>
       

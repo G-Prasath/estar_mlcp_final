@@ -42,9 +42,9 @@ const Banner = () => {
       {bannerCnt.map((cnt, index) => (
         <div key={index}>
           <div className="absolute inset-0">
-            <picture>
-              <source srcSet={`${cnt.img} 1024w, ${cnt.img} 640w, ${cnt.img} 320w`} sizes={cnt.imgSizes} type="image/avif" />
-              <source srcSet={`${cnt.imgWebp} 1024w, ${cnt.imgWebp} 640w, ${cnt.imgWebp} 320w`} sizes={cnt.imgSizes} type="image/webp" />
+            {/* <picture> */}
+              {/* <source srcSet={`${cnt.img} 1024w, ${cnt.img} 640w, ${cnt.img} 320w`} sizes={cnt.imgSizes} type="image/avif" />
+              <source srcSet={`${cnt.imgWebp} 1024w, ${cnt.imgWebp} 640w, ${cnt.imgWebp} 320w`} sizes={cnt.imgSizes} type="image/webp" /> */}
               <img
                 src={cnt.img}
                 alt={cnt.alt}
@@ -53,7 +53,7 @@ const Banner = () => {
                   index === currentImageIndex ? "opacity-100" : "opacity-0"
                 }`}
               />
-            </picture>
+            {/* </picture> */}
             <div className="absolute inset-0 bg-black opacity-40"></div>
           </div>
 

@@ -12,7 +12,7 @@ const Blog = () => {
     <div>
 
       <Helmet>
-        <title>{metaTags.title}</title>
+         <title>{metaTags.title}</title>
         <meta name="description" content={metaTags.description} />
         <meta name="keywords" content={metaTags.keywords} />
         <link rel="canonical" href={metaTags.canonical} />,

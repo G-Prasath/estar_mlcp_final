@@ -19,16 +19,17 @@ const Aboutsec = () => {
           Parking, Multilevel Stacked Rotary Parking, ASRS, and Car Elevator.
         </p>
         <p className="text-text_color my-5 text-justify max-md:px-2">
-          At E STAR Engineers, we specialize in crafting futuristic Car Parking
-          Systems through design, manufacturing, erection, and commissioning.
-          Fueled by innovation, sustainability, and customer-centricity, we
-          commence on a mission to redefine parking solutions. Our vision
-          propels us to set global benchmarks as engineering leaders. Drawing
-          strength from our expertise, we continuously evolve to meet client
-          needs. With unwavering dedication to excellence and boundary-pushing,
-          we envision a future where parking solutions seamlessly merge
-          efficiency, sustainability, and unmatched quality, delivering enduring
-          value to all stakeholders.
+          Our parent organization was laid out in 1995, laying the basis for our
+          obligation to greatness. North of twenty years, we have developed to
+          address client issues, encouraging getting through organizations
+          worldwide.
+        </p>
+        <p className="text-text_color my-5 text-justify max-md:px-2">
+          In 2012, we established our very own exclusive car parking division,
+          which emerged to redefine convenience and safety in vehicle parking
+          with patented tech-driven solutions. Through our patented technology,
+          we prioritize accessibility, security, and sustainability, setting new
+          benchmarks in the industry.
         </p>
       </div>
 

@@ -19,6 +19,7 @@ const Home = () => {
     <>
       <Helmet>
         <title>{metaTags.title}</title>
+        <link rel="icon" type="image/png" href="/favicon.png" />
         <meta name="description" content={metaTags.description} />
         <meta name="keywords" content={metaTags.keywords} />
         <link rel="canonical" href={metaTags.canonical} />

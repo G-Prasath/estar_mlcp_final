@@ -13,50 +13,49 @@ export const HomePageData = {
   };
 
   export const TwopostPageData = {
-    title: "Innovative Two-Post Hydraulic Parking Solutions for Urban Areas - E Star",
+    title: "Two-Post Hydraulic Parking | mechanical parking system | hydraulic parking - E Star",
     description: "Two Post Hydraulic Parking Solutions Enhances urban areas with advanced hydraulic car parking systems, lifts, and two-post car parking systems.",
     keywords: "hydraulic car parking system, hydraulic car parking lift, hydraulic parking  system, two post car parking system",
     canonical: "https://www.estar.in/two-post-hydraulic-system"
   };
 
   export const FourpostPageData = {
-    title: "Upgrade Your Parking Efficiency with Four-Post Hydraulic Systems - E Star",
+    title: "Four-Post Hydraulic System | smart parking system | automated parking system - E Star",
     description: "India's Best and Reliable four-post hydraulic parking systems near you, featuring advanced hydraulic car parking for Hatchbacks, Sedans, SUVs parking systems.",
     keywords: "Four post hydraulic system, hydraulic car parking lift, hydraulic car parking , hydraulic parking  system",
     canonical: "https://www.estar.in/four-post-hydraulic-system"
   };
 
   export const ShuttlestackerPageData = {
-    title: "Stacker Parking Systems : Enhancing  Parking Efficiency -E Star",
+    title: "Stacker Parking Systems | car stacker parking | stacker parking - E Star",
     description: "Efficient and Space-Saving Stacker Parking Systems enhances urban efficiency with innovative stacked parking solutions for cars.",
     keywords: "car stacker parking, stacker parking, parking stacker system, stacker parking system",
     canonical: "https://www.estar.in/stacker-parking-system"
   };
 
   export const PuzzleparkingPageData = {
-    title: "Puzzle Parking Systems: Innovative Solutions for commercial and residential Car Storage - E Star",
+    title: "Puzzle Parking Systems | Puzzle Parking | smart parking system - E Star",
     description: "Puzzle Parking Systems the innovative solutions for urban car storage with automated puzzle car parking systems, and smart parking ensuring space utilization for Commercial and Residential purposes.",
     keywords: "puzzle parking, puzzle car parking system, smart car parking system, automated parking system",
     canonical: "https://www.estar.in/puzzle-parking-system"
   };
 
   export const TowerparkingPageData = {
-    title: "Tower Parking Systems: Future of Parking Space Maximization - E Star",
+    title: "Tower Parking System | car parking multi level | tower car parking system - E Star",
     description: "India's Durable and Safe Tower Parking Systems pioneering the future of urban parking with advanced tower car parking utilizing vertical space for car parking.",
     keywords: "Tower parking, car parking tower, tower car parking system, vertical car parking system",
     canonical: "https://www.estar.in/tower-parking-system"
   };
 
   export const HorizontalRotataryparkingPageData = {
-    title: "Horizontal Parking System: Smart Solutions for Limited Space - E Star",
+    title: "Horizontal Parking System | rotary parking | mechanical parking system - E Star",
     description: "Horizontal Rotary Parking is best for Optimizing use of your available horizontal space, fast retrival and customisable which reduces the need for large driveways and ramps.",
     keywords: "mechanical parking system, rotary car parking system, rotary parking system",
     canonical: "https://www.estar.in/horizontal-rotary-parking"
   };
 
-
     export const VerticalRotataryparkingPageData = {
-    title: "Vertical Parking System : Maximizing Parking Space with RotaryTechnology -E Star",
+    title: "Vertical Parking System | rotary parking system | vertical rotary parking -E Star",
     description: "Vertical Rotary Parking System Maximize urban space with advanced rotary parking technology utilizing vertical parking space to park multiple cars in the space of four parked cars ",
     keywords: "rotary parking system, vertical rotary parking, rotary car parking system",
     canonical: "https://www.estar.in/vertical-rotary-parking"
@@ -77,14 +76,14 @@ export const HomePageData = {
   };
 
   export const CarparkingPageData = {
-    title: "Residential and commercial Car Elevators: Convenience and Accessibility - E Star",
+    title: "Car Elevator | hydraulic lift car | car parking lift - E Star",
     description: "India's best suited Private and Commercial Car Lifts for comfort and availability of cars Parking, car lifting.",
     keywords: "car elevator, car parking lift, hydraulic lift car, car lifts for home, car parking elevator",
     canonical: "https://www.estar.in/car-elevator"
   };
 
   export const GalleryPageData = {
-    title: "E Star Gallery : Multi level Car Parking in chennai -E Star",
+    title: "E Star Gallery : Multi level Car Parking in chennai | smart car parking system | multi storey car parks - E Star",
     description: "Explore our innovative parking solutions the way how we optimize space, enhance efficiency, and ensure safety across diverse projects.",
     keywords: "stacker parking system, hydraulic car parking lift, vertical parking system",
     canonical: "https://www.estar.in/gallery"
@@ -98,14 +97,14 @@ export const HomePageData = {
   };
 
   export const ContactusPageData = {
-    title: "E Star Engineers Private Limited  - MLCP",
+    title: "Multi level car parking | car parking multi level - MLCP",
     description: "Reach out to us for inquiries about our advanced Parking Systems and smart parking solutions.",
     keywords: "puzzle parking system, multi level car parking system in Chennai, Tower parking system",
     canonical: "https://www.estar.in/contact-us"
   };
 
   export const CareerPageData = {
-    title: "E Star Engineers Private Limited Careers - MLCP",
+    title: "car parking multi level | stacker parking system | tower parking - MLCP",
     description: "Join our group and shape the future of stopping arrangements. Investigate open doors, develop with us, and apply today to have an effect!",
     keywords: "puzzle parking system, Multi level Car Parking, Tower parking system in chennai",
     canonical: "https://www.estar.in/careers"
