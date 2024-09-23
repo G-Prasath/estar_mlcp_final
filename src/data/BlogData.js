@@ -4,7 +4,7 @@ export const BlogPosts = {
   // Amrisar
   "amritsar-smartcity-project": {
     //canonical
-    imageSrc: "/blog/Amritsar.webp",
+    imageSrc: "/imgBlog/Amritsar.webp",
     title: "AMRITSAR SMARTCITY PROJECT",
     event: "Jayaraman",
     date: "1st, June 2023",
@@ -30,7 +30,7 @@ export const BlogPosts = {
     sidePosts: [
       {
         slug: "how-two-post-hydraulic-systems-can-amplify-your-parking-space",
-        image: "/blog/Two-Post-Parking.webp",
+        image: "/imgBlog/Two-Post-Parking.webp",
         alt: "TWO POST PARKING",
         author: "Archith",
         date: "28th April, 2024",
@@ -49,7 +49,7 @@ export const BlogPosts = {
 
       {
         slug: "waremat-at-expo-showcasing-innovative-parking-solutions",
-        image: "/blog/Expo.jpeg",
+        image: "/imgBlog/Expo.jpeg",
         alt: "Chennai Trade Centre",
         author: "Sudarsan",
         date: "2nd, 3rd, 4th May, 2024",
@@ -58,7 +58,7 @@ export const BlogPosts = {
       },
       {
         slug: "revolutionized-tower-parking-boosting-parking-efficiency-and-convenience",
-        image: "/blog/Tower-Parking.webp",
+        image: "/imgBlog/Tower-Parking.webp",
         alt: "Tower Parking - Thrissur Corporation",
         author: "Gopinath",
         date: "19th, February, 2024",
@@ -70,7 +70,7 @@ export const BlogPosts = {
 
   // Two Post
   "how-two-post-hydraulic-systems-can-amplify-your-parking-space": {
-    imageSrc: "/blog/Two-Post-Parking.webp",
+    imageSrc: "/imgBlog/Two-Post-Parking.webp",
     event: "Archith",
     date: "28th, April, 2024",
     title: "HOW TWO-POST HYDRAULIC SYSTEMS CAN AMPLIFY YOUR PARKING SPACE",
@@ -98,7 +98,7 @@ export const BlogPosts = {
     sidePosts: [
       {
         slug: "amritsar-smartcity-project",
-        image: "/blog/Amritsar.webp",
+        image: "/imgBlog/Amritsar.webp",
         alt: "AMRITSAR SMARTCITY PROJECT",
         author: "Jayaraman",
         date: "1st, June, 2023",
@@ -117,7 +117,7 @@ export const BlogPosts = {
 
       {
         slug: "waremat-at-expo-showcasing-innovative-parking-solutions",
-        image: "/blog/Expo.jpeg",
+        image: "/imgBlog/Expo.jpeg",
         alt: "Chennai Trade Centre",
         author: "Sudarsan",
         date: "2nd, 3rd, 4th May, 2024",
@@ -126,7 +126,7 @@ export const BlogPosts = {
       },
       {
         slug: "revolutionized-tower-parking-boosting-parking-efficiency-and-convenience",
-        image: "/blog/Tower-Parking.webp",
+        image: "/imgBlog/Tower-Parking.webp",
         alt: "Tower Parking - Thrissur Corporation",
         author: "Gopinath",
         date: "19th, February, 2024",
@@ -138,7 +138,7 @@ export const BlogPosts = {
 
   // Tower Parking
   "revolutionized-tower-parking-boosting-parking-efficiency-and-convenience": {
-    imageSrc: "/blog/Tower-Parking.webp",
+    imageSrc: "/imgBlog/Tower-Parking.webp",
     event: "Gopinath",
     date: "19th February, 2024",
     title:
@@ -171,7 +171,7 @@ export const BlogPosts = {
     sidePosts: [
       {
         slug: "amritsar-smartcity-project",
-        image: "/blog/Amritsar.webp",
+        image: "/imgBlog/Amritsar.webp",
         alt: "AMRITSAR SMARTCITY PROJECT",
         author: "Jayaraman",
         date: "1st, June, 2023",
@@ -180,7 +180,7 @@ export const BlogPosts = {
       },
       {
         slug: "how-two-post-hydraulic-systems-can-amplify-your-parking-space",
-        image: "/blog/Two-Post-Parking.webp",
+        image: "/imgBlog/Two-Post-Parking.webp",
         alt: "TWO POST PARKING",
         author: "Archith",
         date: "28th April, 2024",
@@ -199,7 +199,7 @@ export const BlogPosts = {
 
       {
         slug: "waremat-at-expo-showcasing-innovative-parking-solutions",
-        image: "/blog/Expo.jpeg",
+        image: "/imgBlog/Expo.jpeg",
         alt: "Chennai Trade Centre",
         author: "Sudarsan",
         date: "2nd, 3rd, 4th May, 2024",
@@ -240,7 +240,7 @@ export const BlogPosts = {
     sidePosts: [
       {
         slug: "amritsar-smartcity-project",
-        image: "/blog/Amritsar.webp",
+        image: "/imgBlog/Amritsar.webp",
         alt: "AMRITSAR SMARTCITY PROJECT",
         author: "Jayaraman",
         date: "1st, June, 2023",
@@ -249,7 +249,7 @@ export const BlogPosts = {
       },
       {
         slug: "how-two-post-hydraulic-systems-can-amplify-your-parking-space",
-        image: "/blog/Two-Post-Parking.webp",
+        image: "/imgBlog/Two-Post-Parking.webp",
         alt: "TWO POST PARKING",
         author: "Archith",
         date: "28th April, 2024",
@@ -258,7 +258,7 @@ export const BlogPosts = {
       },
       {
         slug: "waremat-at-expo-showcasing-innovative-parking-solutions",
-        image: "/blog/Expo.jpeg",
+        image: "/imgBlog/Expo.jpeg",
         alt: "Chennai Trade Centre",
         author: "Sudarsan",
         date: "2nd, 3rd, 4th May, 2024",
@@ -267,7 +267,7 @@ export const BlogPosts = {
       },
       {
         slug: "revolutionized-tower-parking-boosting-parking-efficiency-and-convenience",
-        image: "/blog/Tower-Parking.webp",
+        image: "/imgBlog/Tower-Parking.webp",
         alt: "Tower Parking - Thrissur Corporation",
         author: "Gopinath",
         date: "19th, February, 2024",
@@ -280,7 +280,7 @@ export const BlogPosts = {
   // Expo
   "waremat-at-expo-showcasing-innovative-parking-solutions":
     {
-      imageSrc: "/blog/Expo.jpeg",
+      imageSrc: "/imgBlog/Expo.jpeg",
       event: "Sudarsan",
       date: "2, 3, 4, May, 2024",
       title:
@@ -318,7 +318,7 @@ export const BlogPosts = {
       sidePosts: [
         {
           slug: "amritsar-smartcity-project",
-          image: "/blog/Amritsar.webp",
+          image: "/imgBlog/Amritsar.webp",
           alt: "AMRITSAR SMARTCITY PROJECT",
           author: "Jayaraman",
           date: "1st, June, 2023",
@@ -327,7 +327,7 @@ export const BlogPosts = {
         },
         {
           slug: "how-two-post-hydraulic-systems-can-amplify-your-parking-space",
-          image: "/blog/Two-Post-Parking.webp",
+          image: "/imgBlog/Two-Post-Parking.webp",
           alt: "TWO POST PARKING",
           author: "Archith",
           date: "28th April, 2024",
@@ -345,7 +345,7 @@ export const BlogPosts = {
         },
         {
           slug: "revolutionized-tower-parking-boosting-parking-efficiency-and-convenience",
-          image: "/blog/Tower-Parking.webp",
+          image: "/imgBlog/Tower-Parking.webp",
           alt: "Tower Parking - Thrissur Corporation",
           author: "Gopinath",
           date: "19th, February, 2024",

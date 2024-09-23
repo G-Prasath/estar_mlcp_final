@@ -112,7 +112,7 @@ const Navbar = () => {
                 >
                   <li onClick={() => setIsActive("Gallery")}>
                     <Link
-                      to="/gallery"
+                      to="gallery"
                       className="dropdown__link"
                       onClick={() => setIsMenuOpen(false)}
                     >

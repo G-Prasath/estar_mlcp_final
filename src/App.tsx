@@ -62,59 +62,59 @@ function App() {
 
   return (
     <HelmetProvider>
-      <BrowserRouter basename="/">
+      <BrowserRouter>
         <ScrollToTop />
         <React.Suspense fallback={<div />}>
           <Routes>
             <Route element={<MainLayout />}>
               <Route path="/" element={<Home />} />
-              <Route path="/about-us" element={<About />} />
-              <Route path="/two-post-hydraulic-system" element={<Twopost />} />
+              <Route path="about-us" element={<About />} />
+              <Route path="two-post-hydraulic-system" element={<Twopost />} />
               <Route
-                path="/four-post-hydraulic-system"
+                path="four-post-hydraulic-system"
                 element={<Fourpost />}
               />
               <Route
-                path="/puzzle-parking-system"
+                path="puzzle-parking-system"
                 element={<Puzzleparking />}
               />
               <Route
-                path="/stacker-parking-system"
+                path="stacker-parking-system"
                 element={<Shuttleparking />}
               />
-              <Route path="/tower-parking-system" element={<Towerparking />} />
+              <Route path="tower-parking-system" element={<Towerparking />} />
               <Route
-                path="/horizontal-rotary-parking"
+                path="horizontal-rotary-parking"
                 element={<HorizontalRotaryParking />}
               />
               <Route
-                path="/vertical-rotary-parking"
+                path="vertical-rotary-parking"
                 element={<VerticalRotary />}
               />
-              <Route path="/bike-parking" element={<Bikeparking />} />
+              <Route path="bike-parking" element={<Bikeparking />} />
               <Route
-                path="/automated-stoarge-retrival-system"
+                path="automated-stoarge-retrival-system"
                 element={<ASRS />}
               />
-              <Route path="/car-elevator" element={<Carelevator />} />
+              <Route path="car-elevator" element={<Carelevator />} />
 
-              <Route path="/blog">
+              <Route path="blog">
                 <Route index element={<Blog />} />
                 <Route path=":slug" element={<BlogFullPage />} />
               </Route>
               
               <Route
-                path="/frequently-asked-question"
+                path="frequently-asked-question"
                 element={<FrequentlyAskedQuestion />}
               />
-              <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-              <Route path="/gallery" element={<Gallery />} />
-              <Route path="/videos" element={<Videogallery />} />
-              <Route path="/careers" element={<Carrers />} />
-              <Route path="/contact-us" element={<Contact />} />
+              <Route path="privacy-policy" element={<PrivacyPolicy />} />
+              <Route path="gallery" element={<Gallery />} />
+              <Route path="videos" element={<Videogallery />} />
+              <Route path="careers" element={<Carrers />} />
+              <Route path="contact-us" element={<Contact />} />
             </Route>
             <Route element={<NoNavbarLayout />}>
-              <Route path="/landing" element={<Landing />} />
+              <Route path="landing" element={<Landing />} />
               <Route path="*" element={<NotFound />} />
             </Route>
           </Routes>

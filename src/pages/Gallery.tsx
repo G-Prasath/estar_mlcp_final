@@ -1,7 +1,6 @@
 import React from "react";
 import Banner from "../components/Gallery/Banner";
 import Compltedproject from "../components/Gallery/Compltedproject";
-import Ongoingproject from "../components/Gallery/Ongoingproject";
 import { Helmet } from "react-helmet-async";
 import { GalleryPageData as metaTags } from "../data/Metatags";
 
@@ -23,7 +22,6 @@ const Gallery = () => {
       </Helmet>
       <Banner />
       <Compltedproject />
-      {/* <Ongoingproject /> */}
     </div>
   );
 };

@@ -1,12 +1,12 @@
 export const HomePageData = {
-    title: "Explore Multi Level Car Parking Manufacturers in India-EStar",
+    title: "Multi Level Car Parking Manufacturers in India-EStar",
     description: "We are leading manufacturers of multi-level car parking system in India for optimizing commercial and residential parking efficiency.",
     keywords: "multi level car parking, car parking system manufactures in india, multi level car parking system manufactures  india",
     canonical: "https://www.estar.in/"
   };
 
   export const AboutPageData = {
-    title: "Multi level car parking Manufacturers in india - E Star",
+    title: " car parking Manufacturers in india - E Star",
     description: "We established an exclusive car parking division, redefining convenience and safety with patented tech. We prioritize accessibility, security, and sustainability.",
     keywords: "puzzle parking system, multi level car parking system in india, shuttle parking system",
     canonical: "https://www.estar.in/about-us"
@@ -41,7 +41,7 @@ export const HomePageData = {
   };
 
   export const TowerparkingPageData = {
-    title: "Tower Parking System | car parking multi level | tower car parking system - E Star",
+    title: "Tower Parking System | vertical car parking | tower car parking system - E Star",
     description: "India's Durable and Safe Tower Parking Systems pioneering the future of urban parking with advanced tower car parking utilizing vertical space for car parking.",
     keywords: "Tower parking, car parking tower, tower car parking system, vertical car parking system",
     canonical: "https://www.estar.in/tower-parking-system"
@@ -62,7 +62,7 @@ export const HomePageData = {
   };
 
   export const BikeparkingPageData = {
-    title: "Secure and Sustainable Bike Parking Racks - E Star",
+    title: "Automated parking | Escalator Bike | Bike Parking Racks - E Star",
     description: "Secure and Economical Bike parking Racks for urban comfort with inventive stopping frameworks maximizing bike parking  by making optimized vertical space.",
     keywords: "automated parking, bike parking system, bike parking rack, Escalator bike",
     canonical: "https://www.estar.in/bike-parking"
@@ -83,21 +83,21 @@ export const HomePageData = {
   };
 
   export const GalleryPageData = {
-    title: "E Star Gallery : Multi level Car Parking in chennai | smart car parking system | multi storey car parks - E Star",
+    title: "Multi level Car Parking in chennai | smart car parking system | multi storey car parks - E Star",
     description: "Explore our innovative parking solutions the way how we optimize space, enhance efficiency, and ensure safety across diverse projects.",
     keywords: "stacker parking system, hydraulic car parking lift, vertical parking system",
     canonical: "https://www.estar.in/gallery"
   };
 
   export const VideosPageData = {
-    title: "E Star Videos: Tower parking system and Stacker parking System - E Star",
+    title: "Tower parking system | smart parking | Stacker parking System - E Star",
     description: "Discover our cutting-edge parking solutions in action. See how we maximize space, boost efficiency, and enhance urban mobility",
     keywords: "Tower parking system, Multi level car parking system in india, puzzle parking system",
     canonical: "https://www.estar.in/videos"
   };
 
   export const ContactusPageData = {
-    title: "Multi level car parking | car parking multi level - MLCP",
+    title: "Multi level car parking | car parking multi level in india - MLCP",
     description: "Reach out to us for inquiries about our advanced Parking Systems and smart parking solutions.",
     keywords: "puzzle parking system, multi level car parking system in Chennai, Tower parking system",
     canonical: "https://www.estar.in/contact-us"
@@ -111,7 +111,7 @@ export const HomePageData = {
   };
 
   export const BlogPageData = {
-    title: "E Star Engineers Private Limited Blogs - MLCP",
+    title: "puzzel parking | multi level car parking | tower parking - MLCP",
     description: "Jump into the most recent insights and experiences on creative solutions, metropolitan versatility, and space improvement. Remain educated and motivated!",
     keywords: "puzzle parking system, Multi level Car Parking, Tower parking system in chennai",
     canonical: "https://www.estar.in/blog"

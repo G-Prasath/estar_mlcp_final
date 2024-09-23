@@ -26,3 +26,43 @@ Pendings
 2 --" /> Footer 4th section 3 Urls
 3 --" /> FAQ Page, Certificate, Privacy Policy
 
+
+
+============= Htaccess ============================
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Redirect non-www to www
+  RewriteCond %{HTTP_HOST} ^estar\.in [NC]
+  RewriteRule ^(.*)$ https://www.estar.in/$1 [L,R=301]
+
+  # Force HTTPS
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # If the requested file or directory exists, serve it directly
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+  
+    # Exclude gallery and blog from redirection to index.html
+  RewriteCond %{REQUEST_URI} !^/gallery [NC]
+  RewriteCond %{REQUEST_URI} !^/blog [NC]
+
+  # Otherwise, redirect all requests to index.html
+  RewriteRule ^ index.html [L]
+
+  # Custom 403 error page
+  ErrorDocument 403 /custom_403.html
+</IfModule>
+
+<IfModule mod_headers.c>
+  # CORS
+  Header set Access-Control-Allow-Origin "*"
+  Header set Access-Control-Allow-Methods "GET, POST, OPTIONS"
+  Header set Access-Control-Allow-Headers "Origin, X-Requested-With, Content-Type, Accept, Authorization"
+</IfModule>
+
+
+

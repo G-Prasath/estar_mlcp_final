@@ -43,6 +43,28 @@ export const Navlinks = [
   },
 ];
 
+
+export const bannerCnt = [
+  {
+    img: "/banner/Shuttle-Parking.avif",
+    text: "Streamlined Shuttle Parking",
+    alt : "Shuttle-Parking",
+    title : "Shuttle Parking systems Estar"
+  },
+  {
+    img: "/banner/Tower-Parking.avif",
+    text: "Innovative Tower Parking Solutions",
+    alt : "Tower-Parking",
+    title : "Shuttle Parking systems Estar"
+  },
+  {
+    img: "/banner/amrisar-project.avif",
+    text: "Inhouse Engineered Patented Products",
+    alt : "amrisar-shuttle-Parking",
+    title : "Amrisar Shuttle Parking systems Estar"
+  },
+];
+
 export const HomeService = [
   {
     name: "Stacker Parking System",
