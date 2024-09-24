@@ -30,10 +30,6 @@ const Home = () => {
         <meta property="og:description" content="We are leading manufacturers of multi-level car parking system in India for optimizing commercial and residential parking efficiency." />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="https://www.estar.in/home/Multi-Level-Car-Parking.webp" />
-
-        <link rel="preload" href="/banner/Shuttle-Parking.avif" as="image" type="image/avif" />
-        <link rel="preload" href="/banner/Tower-Parking.avif" as="image" type="image/avif" />
-        <link rel="preload" href="/banner/amrisar-project.avif" as="image" type="image/avif" />
       </Helmet>
       <Suspense fallback={<Loading />}>
         <Banner />

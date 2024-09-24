@@ -294,11 +294,11 @@ export const BlogPosts = {
       
       <h3><strong>Puzzle Parking System</strong></h3><p>The <a href="/puzzle-parking-system" class="text-primary"><strong>Puzzle Parking System</strong></a> intrigued many attendees with its smart design that enables cars to be moved both vertically and horizontally, ensuring efficient use of available space.</p><br/>
       
-      <h3><strong>Two Post and Four Post Car Parking Systems</strong></h3><p>Estar’s <a href="/two-post-hydraulic-system" class="text-primary"><strong>Two Post Car Parking</strong></a> and <a href="/four-post-car-parking" class="text-primary"><strong>Four Post Car Parking</strong></a> systems were showcased for their simplicity and reliability, offering robust solutions for both residential and commercial applications.</p><br/>
+      <h3><strong>Two Post and Four Post Car Parking Systems</strong></h3><p>Estar’s <a href="/two-post-hydraulic-system" class="text-primary"><strong>Two Post Car Parking</strong></a> and <a href="/four-post-hydraulic-system" class="text-primary"><strong>Four Post Car Parking</strong></a> systems were showcased for their simplicity and reliability, offering robust solutions for both residential and commercial applications.</p><br/>
       
-      <h3><strong>Car Elevator</strong></h3><p>The <a href="/car-elevator" class="text-primary"><strong>Car Elevator</strong></a> displayed its prowess in providing seamless vertical transportation of vehicles, particularly useful in multi-level parking structures.</p><br/>
+      <h3><strong>Car Elevator</strong></h3><p>The <a href="car-elevator" class="text-primary"><strong>Car Elevator</strong></a> displayed its prowess in providing seamless vertical transportation of vehicles, particularly useful in multi-level parking structures.</p><br/>
       
-      <h3><strong>Automated Storage and Retrieval System (ASRS)</strong></h3><p>The <a href="/automated-storage-retrieval-system" class="text-primary"><strong>ASRS</strong></a> demonstrated its efficiency in managing vehicle storage and retrieval, highlighting its importance in modern parking infrastructure.</p><br/>
+      <h3><strong>Automated Storage and Retrieval System (ASRS)</strong></h3><p>The <a href="/automated-stoarge-retrival-system" class="text-primary"><strong>ASRS</strong></a> demonstrated its efficiency in managing vehicle storage and retrieval, highlighting its importance in modern parking infrastructure.</p><br/>
       
       <h3><strong>Bike Parking Solutions</strong></h3><p>The <a href="/bike-parking" class="text-primary"><strong>Bike Parking</strong></a> solutions emphasized secure and organized storage for bicycles, catering to the growing demand for sustainable transportation options.</p><br/>
       

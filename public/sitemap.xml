@@ -1,148 +1,99 @@
-<!-- 	created with www.mysitemapgenerator.com	 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!--	created with www.mysitemapgenerator.com	-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.estar.in/</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>0.8</priority>
+	<loc>https://www.estar.in/</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-<loc>https://www.estar.in/about-us</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/about-us</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/two-post-hydraulic-system</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/two-post-hydraulic-system</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/four-post-hydraulic-system</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/four-post-hydraulic-system</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/stacker-parking-system</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/stacker-parking-system</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/puzzle-parking-system</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/puzzle-parking-system</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/tower-parking-system</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/tower-parking-system</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/horizontal-rotary-parking</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/horizontal-rotary-parking</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/vertical-rotary-parking</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/vertical-rotary-parking</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/bike-parking</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/bike-parking</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/automated-stoarge-retrival-system</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/automated-stoarge-retrival-system</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/car-elevator</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/car-elevator</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/videos</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/gallery</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/gallery</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/videos</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/blog</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/contact-us</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/blog/amritsar-smartcity-project</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/careers</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/blog/how-two-post-hydraulic-systems-can-amplify-your-parking-space</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/blog</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/blog/puzzle-parking-revolutionizing-urban-car-storage-with-smart-solutions</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/frequently-asked-question</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.estar.in/blog/waremat-at-expo-showcasing-innovative-parking-solutions</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>https://www.estar.in/blog/revolutionized-tower-parking-boosting-parking-efficiency-and-convenience</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>https://www.estar.in/contact-us</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>https://www.estar.in/careers</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>https://www.estar.in/landing</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>https://www.estar.in/banner/Shuttle-Parking.avif</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://www.estar.in/banner/Tower-Parking.avif</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://www.estar.in/banner/amrisar-project.avif</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://www.estar.in/ESTAR-Privacy-Policy.pdf</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>https://www.estar.in/frequently-asked-question</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>https://www.estar.in/privacy-policy</loc>
-<lastmod>2024-09-19T14:39:42+01:00</lastmod>
-<priority>1.0</priority>
+	<loc>https://www.estar.in/privacy-policy</loc>
+	<lastmod>2024-09-23T12:03:33+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 </urlset>

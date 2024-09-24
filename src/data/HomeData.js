@@ -43,7 +43,6 @@ export const Navlinks = [
   },
 ];
 
-
 export const bannerCnt = [
   {
     img: "/banner/Shuttle-Parking.avif",

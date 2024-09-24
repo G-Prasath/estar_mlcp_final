@@ -6,42 +6,42 @@ export const HomePageData = {
   };
 
   export const AboutPageData = {
-    title: " car parking Manufacturers in india - E Star",
+    title: "car parking Manufacturers in india - E Star",
     description: "We established an exclusive car parking division, redefining convenience and safety with patented tech. We prioritize accessibility, security, and sustainability.",
     keywords: "puzzle parking system, multi level car parking system in india, shuttle parking system",
     canonical: "https://www.estar.in/about-us"
   };
 
   export const TwopostPageData = {
-    title: "Two-Post Hydraulic Parking | mechanical parking system | hydraulic parking - E Star",
+    title: "Two-Post Hydraulic Parking | mechanical car parking | hydraulic parking - E Star",
     description: "Two Post Hydraulic Parking Solutions Enhances urban areas with advanced hydraulic car parking systems, lifts, and two-post car parking systems.",
     keywords: "hydraulic car parking system, hydraulic car parking lift, hydraulic parking  system, two post car parking system",
     canonical: "https://www.estar.in/two-post-hydraulic-system"
   };
 
   export const FourpostPageData = {
-    title: "Four-Post Hydraulic System | smart parking system | automated parking system - E Star",
+    title: "Four-Post Hydraulic parking | smart parking system | automated parking system - E Star",
     description: "India's Best and Reliable four-post hydraulic parking systems near you, featuring advanced hydraulic car parking for Hatchbacks, Sedans, SUVs parking systems.",
     keywords: "Four post hydraulic system, hydraulic car parking lift, hydraulic car parking , hydraulic parking  system",
     canonical: "https://www.estar.in/four-post-hydraulic-system"
   };
 
   export const ShuttlestackerPageData = {
-    title: "Stacker Parking Systems | car stacker parking | stacker parking - E Star",
+    title: "Stacker Parking System | car stacker parking | stacker parking - E Star",
     description: "Efficient and Space-Saving Stacker Parking Systems enhances urban efficiency with innovative stacked parking solutions for cars.",
     keywords: "car stacker parking, stacker parking, parking stacker system, stacker parking system",
     canonical: "https://www.estar.in/stacker-parking-system"
   };
 
   export const PuzzleparkingPageData = {
-    title: "Puzzle Parking Systems | Puzzle Parking | smart parking system - E Star",
+    title: "Puzzle Parking System | Puzzle Parking | smart car parking - E Star",
     description: "Puzzle Parking Systems the innovative solutions for urban car storage with automated puzzle car parking systems, and smart parking ensuring space utilization for Commercial and Residential purposes.",
     keywords: "puzzle parking, puzzle car parking system, smart car parking system, automated parking system",
     canonical: "https://www.estar.in/puzzle-parking-system"
   };
 
   export const TowerparkingPageData = {
-    title: "Tower Parking System | vertical car parking | tower car parking system - E Star",
+    title: "Tower Parking System | vertical car parking | tower car parking - E Star",
     description: "India's Durable and Safe Tower Parking Systems pioneering the future of urban parking with advanced tower car parking utilizing vertical space for car parking.",
     keywords: "Tower parking, car parking tower, tower car parking system, vertical car parking system",
     canonical: "https://www.estar.in/tower-parking-system"
@@ -69,7 +69,7 @@ export const HomePageData = {
   };
 
   export const AsrsPageData = {
-    title: "ASRS Racking Systems: Optimizing Warehouse Space and Productivity - E Star",
+    title: "ASRS Racking System: Optimizing Warehouse Space and Productivity - E Star",
     description: "ASRS Racking Systems optimizes warehouse space and productivity with advanced customized Automated solutions for storage, and retrieval of raw materials, containers, and car parking.",
     keywords: "asrs system, asrs racking system, automated storage retrival system, asrs automation",
     canonical: "https://www.estar.in/automated-stoarge-retrival-system"
@@ -97,7 +97,7 @@ export const HomePageData = {
   };
 
   export const ContactusPageData = {
-    title: "Multi level car parking | car parking multi level in india - MLCP",
+    title: "Multi level car parking in india | car parking multi level in india - MLCP",
     description: "Reach out to us for inquiries about our advanced Parking Systems and smart parking solutions.",
     keywords: "puzzle parking system, multi level car parking system in Chennai, Tower parking system",
     canonical: "https://www.estar.in/contact-us"
@@ -111,7 +111,7 @@ export const HomePageData = {
   };
 
   export const BlogPageData = {
-    title: "puzzel parking | multi level car parking | tower parking - MLCP",
+    title: "puzzle parking | multi level car parking | tower parking - MLCP",
     description: "Jump into the most recent insights and experiences on creative solutions, metropolitan versatility, and space improvement. Remain educated and motivated!",
     keywords: "puzzle parking system, Multi level Car Parking, Tower parking system in chennai",
     canonical: "https://www.estar.in/blog"

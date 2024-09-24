@@ -2,6 +2,9 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
+  const handleClick = () => {
+    window.open('/estar-privacy-policy.pdf', '_blank');
+  };
   return (
     <footer className="bg-[#9da3a5] text-white py-4 px-3">
       <div className="container mx-auto flex flex-wrap items-center justify-between">
@@ -16,9 +19,9 @@ const Footer = () => {
           <ul className="list-reset flex justify-center flex-wrap text-xs md:text-sm gap-3">
            
             <li className="mx-4">
-              <Link to="/ESTAR-Privacy-Policy.pdf" className="text-gray-400 hover:text-white" target="_blank">
+              <button onClick={handleClick} className="text-gray-400 hover:text-white">
                 Privacy Policy
-              </Link>
+              </button>
             </li>
             
           </ul>
