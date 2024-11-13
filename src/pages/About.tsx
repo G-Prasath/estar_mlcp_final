@@ -28,8 +28,6 @@ const About = () => {
 
       <Aboutsec />
       <Aboutbanner />
-
-      {/* <Ourteam /> */}
       <Officeimg />
       <Map/>
 

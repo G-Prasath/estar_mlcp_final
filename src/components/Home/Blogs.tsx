@@ -10,7 +10,7 @@ const Blogs = () => {
       <div className="w-full flex max-md:flex-col max-lg:flex-col gap-3">
         <Link to='/blog/amritsar-smartcity-project' className="w-1/2 max-lg:w-full rounded-md relative aspect-square overflow-hidden">
           <LazyLoadImage
-            src="/blog/amrisar-project.webp"
+            src="/imgBlog/amrisar-project.webp"
             alt="amrisar-project"
             title="Amrisar Project"
             className="w-full aspect-square rounded-md hover:scale-[1.1] transition ease-in-out duration-500"
@@ -32,7 +32,7 @@ const Blogs = () => {
         <div className="w-1/2 max-lg:w-full grid grid-cols-2 gap-3">
           <Link to='/blog/waremat-at-expo-showcasing-innovative-parking-solutions' className="w-full aspect-square rounded-md relative overflow-hidden">
             <LazyLoadImage
-              src="/blog/Expo.jpeg"
+              src="/imgBlog/Expo.jpeg"
               alt="Expo"
               title="Expo"
               className="w-full aspect-square rounded-md hover:scale-[1.1] transition ease-in-out duration-500"
@@ -51,7 +51,7 @@ const Blogs = () => {
           </Link>
           <Link to='/blog/how-two-post-hydraulic-systems-can-amplify-your-parking-space' className="w-full aspect-square rounded-md relative overflow-hidden">
             <LazyLoadImage
-              src="blog/1+1-2post.jpg"
+              src="/imgBlog/1+1-2post.jpg"
               alt="1+1-2post"
               title="1+1-2post"
               className="w-full aspect-square rounded-md hover:scale-[1.1] transition ease-in-out duration-500"
@@ -70,7 +70,7 @@ const Blogs = () => {
           </Link>
           <Link to='/blog/revolutionized-tower-parking-boosting-parking-efficiency-and-convenience' className="w-full aspect-square rounded-md relative overflow-hidden">
             <LazyLoadImage
-              src="blog/tower-parking.jpg"
+              src="/imgBlog/tower-parking.jpg"
               alt="tower-parking"
               title="tower-parking"
               className="w-full aspect-square rounded-md hover:scale-[1.1] transition ease-in-out duration-500"

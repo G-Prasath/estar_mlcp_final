@@ -65,6 +65,13 @@ const Clients = () => {
             <img src="/clients/Taj.png" alt="Image 3" className="aspect-auto client_scroll" />
           </SplideSlide>
 
+          <SplideSlide className="relative">
+            <img src="/clients/sun_tv.png" alt="Image 2" className="aspect-auto client_scroll" />
+          </SplideSlide>
+          <SplideSlide className="relative">
+            <img src="/clients/LKS.png" alt="Image 3" className="aspect-auto client_scroll" />
+          </SplideSlide>
+
 
         </Splide>
       </div>
